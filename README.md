@@ -1,7 +1,7 @@
 # webtech-project
 "SharedPlaces" – Sharing recommended places with others made easy. 
 You can :
-- Input a new place type specific activities accordingly
+- Input a new place with specific activities to do accordingly
 - Rate the place from 1 to 5 (5 as the best) and give recommendation to others
 - Tick the checkbox if the place is visited.
 
