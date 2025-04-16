@@ -1,4 +1,7 @@
 # webtech-project
+
+[![CI](https://github.com/karenhim/webtech-project/actions/workflows/tests.yml/badge.svg)](https://github.com/karenhim/webtech-project/actions/workflows/tests.yml)
+
 "SharedPlaces" – Sharing recommended places with others made easy. 
 You can :
 - Input a new place with specific activities to do accordingly
