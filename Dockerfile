@@ -4,8 +4,7 @@
 FROM gradle:jdk21-jammy AS build
 COPY --chown=gradle:gradle src /home/gradle/src
 WORKDIR /home/gradle/src
-RUN gradle build --no-daemon
-
+RUN gradle build --no-daemon --stacktrace --debug
 LABEL org.name="najlaass"
 #
 # Package stage
